@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 1100px) {
+    .home-image{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .home-image{
+        display: none;
+    }
+}
+

@@ -1,0 +1,39 @@
+html{
+  scroll-behavior: smooth;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.Name{
+  font-family: 'MonteCarlo', cursive;
+}
+
+.navcontent{
+  font-family: 'Poiret One', cursive;
+}
+
+.info{
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.titlefour{
+  color: red;
+  margin-top: 20px;
+}
+
+.flippy{
+  margin:0;
+  padding: 0px;
+  margin: 10px 10px;
+  
+}
+
+.movie-title{
+  font-family: 'Mate SC', serif;
+}
